@@ -24,6 +24,14 @@ Briefly followed steps are as follows;
 
 ## Tutorial
 
+### Prepare Environment
+
+1. pip install -r requirements.txt
+
+
+
+### Guide
+
 1. Preparing .proto files with Proto Buffer syntax
 
    1. *Prepared .proto files are located under ./protos/ directory.*
